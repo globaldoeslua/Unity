@@ -4,4 +4,8 @@
 
 **Unity is an advanced script made for Chicblocko on Roblox. | https://www.roblox.com/games/9196514723/ChicBlocko-BETA**
 
+## Who Developed this?
+# Developer
+This script was made by me. My Discord is:
+grim#7990
 
