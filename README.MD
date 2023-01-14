@@ -14,4 +14,14 @@ grim#7990
 I chose to make this script because there was only 1 other script at that moment. Now my script is getting better and better
 
 ## How do i use this script?
+First of all you need an executor, and basic understanding of how to exploit. You need to copy the code inside loader.lua, paste it into your executor, wait until game is fully loaded, then hit execute (after you've injected). Using this script is your own risk, I would recommend to exploit on an alt.
 
+## What Executor should i use?
+I recommend using
+Synapse (20$)
+Scriptware (20$)
+KRNL (free)
+Fluxus (free)
+
+## Are those executors all supported?
+Yes. Almost any other executor isn't supported and will glitch the script.
