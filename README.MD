@@ -18,10 +18,10 @@ First of all you need an executor, and basic understanding of how to exploit. Yo
 
 ## What Executor should i use?
 I recommend using
-Synapse (20$)
-Scriptware (20$)
-KRNL (free)
-Fluxus (free)
+Synapse (20$)\n
+Scriptware (20$)\n
+KRNL (free)\n
+Fluxus (free)\n
 
 ## Are those executors all supported?
 Yes. Almost any other executor isn't supported and will glitch the script.
